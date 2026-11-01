@@ -1,0 +1,18 @@
+# compiled output
+out/
+dist/
+*.class
+*.jar
+!junit-platform-console-standalone.jar
+
+# runtime data created by MiniBank
+data/
+logs/
+reports/
+accounts.dat
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
